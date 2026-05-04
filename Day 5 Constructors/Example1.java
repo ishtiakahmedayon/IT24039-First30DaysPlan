@@ -12,7 +12,7 @@ class Student{
     }
 }
 
-public class Constructor{
+public class Example1{
     public static void main(String[] args){
         Student s1 = new Student("Ishtiak", 23);
 
