@@ -1,4 +1,4 @@
-### Code:
+### Task 1
 
 ```
 import java.util.Scanner;
@@ -27,3 +27,5 @@ public class HarshadNumber{
 }
 
 ```
+### Task 2
+![alt text](<Leetcode Screenshot Harshad Number-1.png>)
