@@ -30,6 +30,5 @@ public class HarshadNumber{
 ### Task 2
 ![alt text](<Leetcode Screenshot Harshad Number-1.png>)
 
-
 ### Task 3
 ![alt text](<Task 3 screenshot-1.png>)
