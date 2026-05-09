@@ -1,0 +1,2 @@
+Hello, ICT 21!
+This is a Java file handling example
