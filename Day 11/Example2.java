@@ -1,8 +1,8 @@
-import java.util.TreeSet;
+import java.util.HashSet;
 
-public class Example {
+public class Example2 {
     public static void main(String[] args) {
-        TreeSet<Integer> set = new TreeSet<>();
+        HashSet<Integer> set = new HashSet<>();
         set.add(5);
         set.add(1);
         set.add(3);

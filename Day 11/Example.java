@@ -1,15 +1,13 @@
-import java.util.LinkedList;
+import java.util.TreeSet;
 
 public class Example {
     public static void main(String[] args) {
-        LinkedList<String> countries = new LinkedList<>();
-        
-        countries.add("India");
-        countries.add("USA");
-        countries.add("Japan");
-        countries.add("Brazil");
-        
-        System.out.println("Countries in the LinkedList:");
-        System.out.println(countries);
+        TreeSet<Integer> set = new TreeSet<>();
+        set.add(5);
+        set.add(1);
+        set.add(3);
+        set.add(2);
+        set.add(4);
+        System.out.println(set);
     }
 }
