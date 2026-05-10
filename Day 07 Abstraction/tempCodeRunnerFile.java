@@ -1,6 +1,3 @@
-### Abstract Class
-
-```
 abstract class Employee{
     String name;
 
@@ -30,4 +27,3 @@ public class AbstractClass{
 
     }
 }
-```
